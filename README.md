@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alonso.m144@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jes%C3%BAs-alonso-m%C3%A1rquez-caballero-28148351/](https://www.linkedin.com/in/jes%C3%BAs-alonso-m%C3%A1rquez-caballero-28148351/)
+- 📄 Know about my experiences [linkedIn](https://www.linkedin.com/in/jesus-marquez-caballero/)
 
 <h3 align="left">🌐Connect with me:</h3>
 <p align="left">
