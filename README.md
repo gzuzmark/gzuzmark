@@ -13,10 +13,14 @@
 
 - 📄 Know about my experiences [linkedIn](https://www.linkedin.com/in/jesus-marquez-caballero/)
 
+- <a href="https://gitlab.com/jesusdeva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="fdsfdsfds" height="30" width="40" /> Gitlab</a> 
+
 <h3 align="left">🌐Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_gzvz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_gzvz_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jesús-alonso-márquez-caballero-28148351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús-alonso-márquez-caballero-28148351" height="30" width="40" /></a>
+  
+<a href="/https://www.jesudev.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.jesudev.com/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
